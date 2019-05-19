@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://www.sebas204.tk/"
+redirect_to: "www.sebas204.tk"
 ---
